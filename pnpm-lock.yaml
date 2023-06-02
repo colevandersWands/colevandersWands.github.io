@@ -5,9 +5,6 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@napi-rs/simple-git-darwin-x64':
-    specifier: ^0.1.8
-    version: 0.1.8
   next:
     specifier: ^13.0.6
     version: 13.0.6(react-dom@18.2.0)(react@18.2.0)
@@ -15,7 +12,7 @@ dependencies:
     specifier: latest
     version: 2.6.2(next@13.0.6)(react-dom@18.2.0)(react@18.2.0)
   nextra-theme-docs:
-    specifier: latest
+    specifier: ^2.6.2
     version: 2.6.2(next@13.0.6)(nextra@2.6.2)(react-dom@18.2.0)(react@18.2.0)
   react:
     specifier: ^18.2.0
@@ -121,6 +118,7 @@ packages:
     os: [darwin]
     requiresBuild: true
     dev: false
+    optional: true
 
   /@napi-rs/simple-git-linux-arm-gnueabihf@0.1.8:
     resolution: {integrity: sha512-6BPTJ7CzpSm2t54mRLVaUr3S7ORJfVJoCk2rQ8v8oDg0XAMKvmQQxOsAgqKBo9gYNHJnqrOx3AEuEgvB586BuQ==}

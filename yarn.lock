@@ -1326,7 +1326,7 @@ next@^13.0.6:
     "@next/swc-win32-ia32-msvc" "13.4.4"
     "@next/swc-win32-x64-msvc" "13.4.4"
 
-nextra-theme-docs@latest:
+nextra-theme-docs@^2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.6.2.tgz#fd3b19d775110a64b1e3277e76b1f571345ab6d1"
   dependencies:
