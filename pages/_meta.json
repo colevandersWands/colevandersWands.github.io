@@ -1,7 +1,21 @@
 {
   "index": "Hello",
-  "lesson-plans": "Lesson Plans",
-  "contact": {
+  "study-lenses": { "display": "hidden" },
+  "lesson-materials": { "display": "hidden" },
+  "curriculum-design": "Curriculum Design",
+  "de-nepo": {
+    "title": "De Nepo ↗",
+    "type": "page",
+    "href": "https://github.com/DeNepo",
+    "newWindow": true
+  },
+  "publications": {
+    "title": "Publications ↗",
+    "type": "page",
+    "href": "https://scholar.google.com/citations?user=-tvw9zAAAAAJ&hl=nl&oi=sra",
+    "newWindow": true
+  },
+  "notes": {
     "title": "Notes ↗",
     "type": "page",
     "href": "https://evancole.be/notes",
