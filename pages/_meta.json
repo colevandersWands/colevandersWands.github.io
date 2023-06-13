@@ -1,13 +1,13 @@
 {
   "index": "Hello",
-  "study-lenses": { "display": "hidden" },
-  "lesson-materials": { "display": "hidden" },
   "curriculum-design": "Curriculum Design",
+  "study-lenses": "Study Lenses",
+  "lesson-materials": { "display": "hidden" },
 
-  "notes": {
-    "title": "Notes ↗",
+  "de-nepo": {
+    "title": "De Nepo ↗",
     "type": "page",
-    "href": "https://evancole.be/notes",
+    "href": "https://github.com/DeNepo",
     "newWindow": true
   },
   "publications": {
@@ -16,10 +16,10 @@
     "href": "https://scholar.google.com/citations?user=-tvw9zAAAAAJ&hl=nl&oi=sra",
     "newWindow": true
   },
-  "de-nepo": {
-    "title": "De Nepo ↗",
+  "notes": {
+    "title": "Notes ↗",
     "type": "page",
-    "href": "https://github.com/DeNepo",
+    "href": "https://evancole.be/notes",
     "newWindow": true
   },
   "linkedin": {
