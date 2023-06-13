@@ -1,39 +1,39 @@
 Arguments: 
-  /Users/master/.nvm/versions/node/v16.2.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js add nextra-theme-docs
+  /Users/master/.nvm/versions/node/v18.16.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js export
 
 PATH: 
-  /Users/master/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/master/miniconda3/bin:/Users/master/miniconda3/condabin:/Users/master/go/bin:/Users/master/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/Users/master/.rvm/bin
+  /Users/master/.nvm/versions/node/v18.16.0/bin:/Users/master/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/master/miniconda3/bin:/Users/master/miniconda3/condabin:/Users/master/go/bin:/Users/master/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/Users/master/.rvm/bin
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  16.2.0
+  18.16.0
 
 Platform: 
-  darwin x64
+  darwin arm64
 
 npm manifest: 
   {
-    "name": "nextra-docs-template",
+    "name": "evancole.be",
     "version": "0.0.1",
-    "description": "Nextra docs template",
+    "description": "evan cole's home page",
     "scripts": {
       "dev": "next dev",
       "build": "next build",
       "start": "next start",
-      "export": "next export"
+      "export": "next export && cp CNAME .out/CNAME"
     },
     "repository": {
       "type": "git",
       "url": "git+https://github.com/shuding/nextra-docs-template.git"
     },
-    "author": "Shu Ding <g@shud.in>",
+    "author": "Evan Cole",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/shuding/nextra-docs-template/issues"
+      "url": "https://github.com/colevandersWands/colevandersWands.github.io"
     },
-    "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+    "homepage": "https://github.com/colevandersWands/colevandersWands.github.io",
     "dependencies": {
       "next": "^13.0.6",
       "nextra": "^2.7.1",
@@ -2288,11 +2288,16 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-2.0.4.tgz#c827d4b0acb76fc3e685a4c6ec2902d51070e9d7"
 
 Trace: 
-  Error: Found incompatible module
-      at new MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
-      at checkOne (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:62444:11)
-      at Object.check (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:62463:5)
-      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:22803:73
-      at Generator.next (<anonymous>)
-      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
-      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
+  Error: Command failed.
+  Exit code: 1
+  Command: sh
+  Arguments: -c next export && cp CNAME .out/CNAME
+  Directory: /Users/master/Documents/0-teach-code/0---the-big-idea/00--evancole-be/0--home
+  Output:
+  
+      at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
+      at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
+      at ChildProcess.emit (node:events:513:28)
+      at maybeClose (node:internal/child_process:1091:16)
+      at ChildProcess._handle.onexit (node:internal/child_process:302:5)

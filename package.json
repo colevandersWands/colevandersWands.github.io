@@ -1,23 +1,23 @@
 {
-  "name": "nextra-docs-template",
+  "name": "evancole.be",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "evan cole's home page",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export"
+    "export": "next export && cp CNAME ./out/CNAME"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shuding/nextra-docs-template.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Evan Cole",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/colevandersWands/colevandersWands.github.io"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/colevandersWands/colevandersWands.github.io",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "^2.7.1",
