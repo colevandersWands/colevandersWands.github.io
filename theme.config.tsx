@@ -3,12 +3,12 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
   project: {
-    link: "https://github.com/colevandersWands",
+    link: "https://github.com/colevandersWands/colevandersWands.github.io",
   },
   docsRepositoryBase:
     "https://github.com/colevandersWands/colevandersWands.github.io",
   footer: {
-    text: "Left Foot",
+    text: "You can save any page as a PDF by opening it, ctr-p, then opening the document instead of printing it.",
   },
   sidebar: {
     defaultMenuCollapseLevel: 1,

@@ -1,17 +1,17 @@
 Arguments: 
-  /Users/master/.nvm/versions/node/v18.16.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js export
+  /Users/master/.nvm/versions/node/v16.2.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js dev
 
 PATH: 
-  /Users/master/.nvm/versions/node/v18.16.0/bin:/Users/master/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/master/miniconda3/bin:/Users/master/miniconda3/condabin:/Users/master/go/bin:/Users/master/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/Users/master/.rvm/bin
+  /Users/master/go/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/master/miniconda3/bin:/Users/master/miniconda3/condabin:/Users/master/go/bin:/Users/master/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/master/anaconda3/bin:/Users/master/.rvm/gems/ruby-2.4.0/bin:/Users/master/.rvm/gems/ruby-2.4.0@global/bin:/Users/master/.rvm/rubies/ruby-2.4.0/bin:/Users/master/.nvm/versions/node/v16.2.0/bin:/Users/master/Documents/research/torch/install/bin/luajit:/Users/master/Documents/research/torch/install/bin:home/user/torch/install/bin:/Users/master/Documents/research/torch/install/bin/torch-activate:/Users/master/.rvm/bin
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  18.16.0
+  16.2.0
 
 Platform: 
-  darwin arm64
+  darwin x64
 
 npm manifest: 
   {
@@ -22,7 +22,7 @@ npm manifest:
       "dev": "next dev",
       "build": "next build",
       "start": "next start",
-      "export": "next export && cp CNAME .out/CNAME"
+      "export": "next export && cp CNAME ./out/CNAME"
     },
     "repository": {
       "type": "git",
@@ -2291,13 +2291,13 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c next export && cp CNAME .out/CNAME
+  Arguments: -c next dev
   Directory: /Users/master/Documents/0-teach-code/0---the-big-idea/00--evancole-be/0--home
   Output:
   
       at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
       at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
       at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
-      at ChildProcess.emit (node:events:513:28)
-      at maybeClose (node:internal/child_process:1091:16)
-      at ChildProcess._handle.onexit (node:internal/child_process:302:5)
+      at ChildProcess.emit (node:events:365:28)
+      at maybeClose (node:internal/child_process:1067:16)
+      at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)
