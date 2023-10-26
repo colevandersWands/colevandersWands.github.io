@@ -2,8 +2,6 @@
 
 ---
 
----
-
 You may have heard this before:
 
 - "if all you have is a hammer, everything is a nail"
