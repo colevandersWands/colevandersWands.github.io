@@ -1,4 +1,4 @@
-| [de nepo](https://denepo.js.org) | [github](https://github.com/colevandersWands) | [notes](https://evancole.be/notes) | [snippetry](https://evancole.be/snippetry) | [publications](https://scholar.google.com/citations?user=-tvw9zAAAAAJ&hl=nl&oi=sra) | [linkedin](https://be.linkedin.com/in/evan-cole) | [email](mailto:email@evancole.be) |
+| [de nepo](https://denepo.js.org) | [notes](https://evancole.be/notes) | [snippetry](https://evancole.be/snippetry) | [publications](https://scholar.google.com/citations?user=-tvw9zAAAAAJ&hl=nl&oi=sra) | [linkedin](https://be.linkedin.com/in/evan-cole) | [email](mailto:email@evancole.be) |
 
 ---
 
