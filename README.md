@@ -10,7 +10,7 @@ I'm curious how we can more efficiently translate research in computing educatio
 - [Research](#research)
 - [Professional](#professional)
 - [Fun](#fun)
-- [?](#?)
+- ?
 
 ---
 
@@ -56,7 +56,7 @@ Curious about using or contributing to any of these resources? Send me an email!
 
 </details>
 
-[^ TOP ^ ](#evan-cole)
+[^ TOP ^](#evan-cole)
 
 ---
 
@@ -135,7 +135,7 @@ And, [my notes](https://evancole.be/notes)
 
 </details>
 
-[^ TOP ^ ](#evan-cole)
+[^ TOP ^](#evan-cole)
 
 ---
 
@@ -164,7 +164,7 @@ Email me to learn more about my services in curriculum design, content creation 
 
 </details>
 
-[^ TOP ^ ](#evan-cole)
+[^ TOP ^](#evan-cole)
 
 ---
 
@@ -193,7 +193,7 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 
 </details>
 
-[^ TOP ^ ](#evan-cole)
+[^ TOP ^](#evan-cole)
 
 ---
 
@@ -216,8 +216,6 @@ Now try this on for size:
 - "if everything is a nail, you'll always reach for your hammer"
 
 Wait. How could you have a hammer if everything is a nail? And wouldn't you be a nail too‽
-
----
 
 </td>
 <td>
@@ -298,6 +296,8 @@ I certainly haven't found the answer yet, but I do have lots of ideas. Let's com
 </td>
 
 </table>
+
+---
 
 ---
 
