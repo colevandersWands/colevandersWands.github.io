@@ -259,15 +259,15 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 <br />
 
 <ul>
-<li>&quot;Alone, you can only ask the questions you can think of, and search for answers in ways you can think of.&quot;</li>
+<li><em>Alone, you can only ask the questions you can think of, and search for answers in ways you can think of.</em></li>
 </ul>
 <p>Try replacing &quot;question&quot; with &quot;problem&quot;, and &quot;answer&quot; with &quot;solution&quot;:</p>
 <ul>
-<li>&quot;Alone, you can only find the problems you can think of, and solve them in ways you can think of.&quot;</li>
+<li><em>Alone, you can only find the problems you can think of, and address them in ways you can think of.</em></li>
 </ul>
 <p>Listening and empathy are the keys to finding problems you couldn&#39;t know exist. Collaborative design is the way to find answers you never expected were possible.</p>
 <ul>
-<li>&quot;Together, we can find the problems we didn&#39;t expect, and solve them in ways we never never imagined.&quot;</li>
+<li><em>Together, we can find the problems we didn&#39;t expect, and address them in ways we never never imagined.</em></li>
 </ul>
 
 </details>
@@ -279,11 +279,11 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 
 <p>Here&#39;s the question I&#39;ve spent a few years trying to answer:</p>
 <ul>
-<li>&quot;How can we make the best ways of teaching programming the easiest?&quot;.</li>
+<li><em>How can we make the best ways of teaching programming the easiest?</em></li>
 </ul>
 <p>Rephrased as a problem:</p>
 <ul>
-<li>&quot;There are empirical best practices for teaching programming, but those are not common.&quot;</li>
+<li><em>There are empirical best practices for teaching programming, but those are not common.</em></li>
 </ul>
 <p>Hold on. What does it even mean to teach programming? Maybe it means first teaching students to ask questions that can be answered with code.</p>
 <p>I certainly haven&#39;t found the answer yet, but I do have lots of ideas. Let&#39;s compare <a href="https://evancole.be/notes" target="_blank">notes</a>.</p>
