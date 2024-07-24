@@ -57,7 +57,7 @@ Curious about using or contributing to any of these resources? Send me an email!
 </details>
 
 <br />
-<a href="evan-cole">^ TOP ^</a>
+<a href="#evan-cole">^ TOP ^</a>
 
 ---
 
@@ -137,7 +137,7 @@ And, [my notes](https://evancole.be/notes)
 </details>
 
 <br />
-<a href="evan-cole">^ TOP ^</a>
+<a href="#evan-cole">^ TOP ^</a>
 
 ---
 
@@ -167,7 +167,7 @@ Email me to learn more about my services in curriculum design, content creation 
 </details>
 
 <br />
-<a href="evan-cole">^ TOP ^</a>
+<a href="#evan-cole">^ TOP ^</a>
 
 ---
 
@@ -197,7 +197,7 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 </details>
 
 <br />
-<a href="evan-cole">^ TOP ^</a>
+<a href="#evan-cole">^ TOP ^</a>
 
 ---
 
@@ -297,8 +297,6 @@ I certainly haven't found the answer yet, but I do have lots of ideas. Let's com
 </tr>
 
 </table>
-
----
 
 ---
 
