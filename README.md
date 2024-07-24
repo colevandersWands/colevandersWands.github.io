@@ -1,6 +1,6 @@
 # Evan Cole
 
-> [email](mailto:email@evancole.be)@[evancole.be](https://evancole.be) |
+> [email](mailto:email@evancole.be)@[evancole.be](https://evancole.be)
 
 I'm curious how we can more efficiently translate research in computing education to open tools, content and practices:
 
@@ -299,6 +299,9 @@ I certainly haven't found the answer yet, but I do have lots of ideas. Let's com
 
 ---
 
+🐧 🇧🇪 🇺🇸 🐧
+
 ---
 
-🐧 🇧🇪 🇺🇸 🐧
+
+![thing](./thing.svg)
