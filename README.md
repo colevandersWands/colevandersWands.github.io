@@ -300,6 +300,6 @@ I certainly haven't found the answer yet, but I do have lots of ideas. Let's com
 
 ---
 
-🐧 🇧🇪 🇺🇸 🐧
+---
 
-![thing](./thing.svg)
+🐧 🇧🇪 🇺🇸 🐧
