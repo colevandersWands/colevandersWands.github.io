@@ -261,7 +261,7 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 <ul>
 <li><em>Alone, you can only ask the questions you can think of, and search for answers in ways you can think of.</em></li>
 </ul>
-<p>Try replacing &quot;question&quot; with &quot;problem&quot;, and &quot;answer&quot; with &quot;solution&quot;:</p>
+<p>Try replacing &quot;question&quot; with &quot;problem&quot;, and &quot;answer&quot; with &quot;address&quot;:</p>
 <ul>
 <li><em>Alone, you can only find the problems you can think of, and address them in ways you can think of.</em></li>
 </ul>
