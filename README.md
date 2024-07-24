@@ -56,7 +56,7 @@ Curious about using or contributing to any of these resources? Send me an email!
 
 </details>
 
-[^ TOP ^](#evan-cole)
+<a href="evan-cole">^ TOP ^</a>
 
 ---
 
@@ -135,7 +135,7 @@ And, [my notes](https://evancole.be/notes)
 
 </details>
 
-[^ TOP ^](#evan-cole)
+<a href="evan-cole">^ TOP ^</a>
 
 ---
 
@@ -164,7 +164,7 @@ Email me to learn more about my services in curriculum design, content creation 
 
 </details>
 
-[^ TOP ^](#evan-cole)
+<a href="evan-cole">^ TOP ^</a>
 
 ---
 
@@ -193,7 +193,7 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 
 </details>
 
-[^ TOP ^](#evan-cole)
+<a href="evan-cole">^ TOP ^</a>
 
 ---
 
@@ -201,11 +201,10 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 
 <table>
 <tr>
-<td>
 
-<details>
-<summary></summary>
-<br>
+<td>
+<details><summary></summary>
+<br />
 
 You may have heard this before:
 
@@ -217,13 +216,12 @@ Now try this on for size:
 
 Wait. How could you have a hammer if everything is a nail? And wouldn't you be a nail too‽
 
-</td>
-<td>
-
 </details>
-<details>
-<summary></summary>
-<br>
+</td>
+
+<td>
+<details><summary></summary>
+<br />
 
 Many years ago this question captured me:
 
@@ -240,13 +238,12 @@ I now think of disciplines as conventional combinations. Disciplines have a conv
 
 So what does it mean to be an expert in a discipline? I think it means you've developed the intuition to ask certain questions and are very good at certain methods for finding their answers. no more, no less.
 
-</td>
-<td>
-
 </details>
-<details>
-<summary></summary>
-<br>
+</td>
+
+<td>
+<details><summary></summary>
+<br />
 
 Where do unexpected questions come from? And how can you find an answer to a question no one understands yet?
 
@@ -254,13 +251,12 @@ Conventional disciplines may have constrained themselves to asking questions for
 
 But what if you reject known constraints and set new ones? You'd have to ask unknown questions and find unexpected ways to answer them.
 
+</details>  
 </td>
-<td>
 
-</details>
-<details>
-<summary></summary>
-<br>
+<td>
+<details><summary></summary>
+<br />
 
 - "Alone, you can only ask the questions you can think of, and search for answers in ways you can think of."
 
@@ -272,13 +268,12 @@ Listening and empathy are the keys to finding problems you couldn't know exist. 
 
 - "Together, we can find the problems we didn't expect, and solve them in ways we never never imagined."
 
-</td>
-<td>
-
 </details>
-<details>
-<summary></summary>
-<br>
+</td>
+
+<td>
+<details><summary></summary>
+<br />
 
 Here's the question I've spent a few years trying to answer:
 
@@ -294,14 +289,13 @@ I certainly haven't found the answer yet, but I do have lots of ideas. Let's com
 
 </details>  
 </td>
+  
+</tr>
 
 </table>
 
 ---
 
-🐧 🇧🇪 🇺🇸 🐧
-
 ---
 
-
-![thing](./thing.svg)
+🐧 🇧🇪 🇺🇸 🐧
