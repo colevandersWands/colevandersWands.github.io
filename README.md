@@ -23,36 +23,34 @@ If we want programming education stay relevant and open doors to opportunity, we
 Curious about using or contributing to any of these resources? Send me an email!
 
 <details> 
-<summary><em>Click to learn more about my open source projects</em></summary>
+<summary><em>Click to learn more about my open education projects</em></summary>
 <br>
-
-[De Nepo: Open Ed](https://github.com/DeNepo): A collection of evidence-based resources & tools for computing education. Some highlights:
-
-- [Study Lenses](https://denepo.js.org/study-lenses) ([demo](https://study-lenses-demo.onrender.com/?--defaults), [source](https://github.com/DeNepo/study-lenses), [spiritual successor](https://github.com/yoshimalaise/Explorotron)): A plugin-based learning environment for generating comprehension exercises from code. The following tutorials are designed for Study Lenses.
-- [Welcome to JS](https://github.com/DeNepo/welcome-to-js): A practical introduction to programming focusing on program comprehension and communication skills.
-- [Inside JS](https://github.com/DeNepo/inside-js): A deeper look inside JavaScript including expression-level debugging, unit testing, DOM I/O, and reverse-engineering.
-- [Behavior, Strategy, Implementation](https://github.com/DeNepo/behavior-strategy-implementation): Explore and practice a wide variety of approaches for solving & reviewing coding challenges.
-- [Separation of Concerns](https://github.com/DeNepo/separation-of-concerns): Learn how to plan and collaborate on a software project with code-splitting and file/folder conventions based on the code's role in the program.
-
-[Software as a Second Language](https://solve.mit.edu/challenges/2024-global-learning-challenge/solutions/86181): A new project to organize and package De Nepo materials for program comprehension, designed around four levels of time investment:
-
-1. **Quick Wins**: Teaching or study techniques you can pick up in under an hour.
-1. **Tools**: Guides for adopting tools like Study Lenses that help understand any code you are working with.
-1. **Content**: Lesson plans, exercises, and references that can be incorporated into an existing curriculum.
-1. **Curriculum**: Guides & resources for redesigning programming curricula around comprehension-first learning objectives.
-
-[InTechgration](https://github.com/in-tech-gration/): I am helping them to adopt/adapt De Nepo materials, and giving Instructional design & curriculum packaging advice for [WDX-180](https://github.com/in-tech-gration/WDX-180)
-
-[Blocks to Text](https://github.com/blocks-to-text/top): Thoughts about helping learners transition from blocks to text. Also an experiment in hosting essays+slides+demos in one GitHub organization.
-
-[JS for Open Computing Education](https://archive.fosdem.org/2019/schedule/event/js_teaching_tool/). A presentation from FOSDEM '19 with some principles for designing realistically open computing education. The code is wonky, the ideas are solid.
-
-- [slides](https://evancole.be/fosdem-2019/index.html#/), [repo](https://github.com/colevandersWands/fosdem-2019) (forked because I accidentally deleted mine 🤦)
-
-[Micromaterials](https://github.com/lpmi-13/micromaterials-list): Open learning resources that are focused,free, give automated feedback, and (ideally) generate endless practice.
-
-- [DevEdOps Dimensions](https://micromaterialsblog.wordpress.com/2024/03/25/devedops-dimensions/) by [Adam](https://github.com/lpmi-13/)
-- [presented at FOSDEM '23](https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/) by [Yoshi](https://github.com/yoshimalaise/)
+<p><a target="_blank" href="https://github.com/DeNepo">De Nepo: Open Ed</a>: A collection of evidence-based resources &amp; tools for computing education. Some highlights:</p>
+<ul>
+<li><a target="_blank" href="https://denepo.js.org/study-lenses">Study Lenses</a> (<a target="_blank" href="https://study-lenses-demo.onrender.com/?--defaults">demo</a>, <a target="_blank" href="https://github.com/DeNepo/study-lenses">source</a>, <a target="_blank" href="https://github.com/yoshimalaise/Explorotron">spiritual successor</a>): A plugin-based learning environment for generating comprehension exercises from code. The following tutorials are designed for Study Lenses.</li>
+<li><a target="_blank" href="https://github.com/DeNepo/welcome-to-js">Welcome to JS</a>: A practical introduction to programming focusing on program comprehension and communication skills.</li>
+<li><a target="_blank" href="https://github.com/DeNepo/inside-js">Inside JS</a>: A deeper look inside JavaScript including expression-level debugging, unit testing, DOM I/O, and reverse-engineering.</li>
+<li><a target="_blank" href="https://github.com/DeNepo/behavior-strategy-implementation">Behavior, Strategy, Implementation</a>: Explore and practice a wide variety of approaches for solving &amp; reviewing coding challenges.</li>
+<li><a target="_blank" href="https://github.com/DeNepo/separation-of-concerns">Separation of Concerns</a>: Learn how to plan and collaborate on a software project with code-splitting and file/folder conventions based on the code&#39;s role in the program.</li>
+</ul>
+<p><a target="_blank" href="https://solve.mit.edu/challenges/2024-global-learning-challenge/solutions/86181">Software as a Second Language</a>: A new project to organize and package De Nepo materials for program comprehension, designed around four levels of time investment:</p>
+<ol>
+<li><strong>Quick Wins</strong>: Teaching or study techniques you can pick up in under an hour.</li>
+<li><strong>Tools</strong>: Guides for adopting tools like Study Lenses that help understand any code you are working with.</li>
+<li><strong>Content</strong>: Lesson plans, exercises, and references that can be incorporated into an existing curriculum.</li>
+<li><strong>Curriculum</strong>: Guides &amp; resources for redesigning programming curricula around comprehension-first learning objectives.</li>
+</ol>
+<p><a target="_blank" href="https://github.com/in-tech-gration/">InTechgration</a>: I am helping them to adopt/adapt De Nepo materials, and giving Instructional design &amp; curriculum packaging advice for <a target="_blank" href="https://github.com/in-tech-gration/WDX-180">WDX-180</a></p>
+<p><a target="_blank" href="https://github.com/blocks-to-text/top">Blocks to Text</a>: Thoughts about helping learners transition from blocks to text. Also an experiment in hosting essays+slides+demos in one GitHub organization.</p>
+<p><a target="_blank" href="https://archive.fosdem.org/2019/schedule/event/js_teaching_tool/">JS for Open Computing Education</a>. A presentation from FOSDEM &#39;19 with some principles for designing realistically open computing education. The code is wonky, the ideas are solid.</p>
+<ul>
+<li><a target="_blank" href="https://evancole.be/fosdem-2019/index.html#/">slides</a>, <a target="_blank" href="https://github.com/colevandersWands/fosdem-2019">repo</a> (forked because I accidentally deleted mine 🤦)</li>
+</ul>
+<p><a target="_blank" href="https://github.com/lpmi-13/micromaterials-list">Micromaterials</a>: Open learning resources that are focused,free, give automated feedback, and (ideally) generate endless practice.</p>
+<ul>
+<li><a target="_blank" href="https://micromaterialsblog.wordpress.com/2024/03/25/devedops-dimensions/">DevEdOps Dimensions</a> by <a target="_blank" href="https://github.com/lpmi-13/">Adam</a></li>
+<li><a target="_blank" href="https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/">presented at FOSDEM &#39;23</a> by <a target="_blank" href="https://github.com/yoshimalaise/">Yoshi</a></li>
+</ul>
 
 </details>
 
@@ -70,8 +68,7 @@ Interested? Reach out! I'm always open to new projects as an outside collaborato
 <details>
 <summary><em>Click to learn more about my research.</em></summary>
 <br>
-
-<details> <summary> <a href="https://wise.vub.ac.be/sites/default/files/publications/SIGCSE_2023_0.pdf">Computing Education Research as a Translational Transdiscipline</a> + <a href="https://www.youtube.com/watch?v=L9HTo17Y5gw">video</a> </summary>
+<details> <summary> <a target="_blank" href="https://wise.vub.ac.be/sites/default/files/publications/SIGCSE_2023_0.pdf">Computing Education Research as a Translational Transdiscipline</a> + <a target="_blank" href="https://www.youtube.com/watch?v=L9HTo17Y5gw">video</a> </summary>
 
 The field of Computing Education Research (CER) produces important insights into learning and notable interventions, yet due to the research/practice divide these do not have the desired impact on learners or practitioners. Even within CER, Computing Education (CE) learning theories have limited influence on learning designs due to the theory/design divide, which is unfortunate given that the goal of CER is to impact learners and broaden access to computation.
 
@@ -81,7 +78,7 @@ In addition to the future exploration and exploitation of the presented TCER mod
 
   </details>
 
-<details> <summary> <a href="https://wise.vub.ac.be/sites/default/files/publications/CSEDU2023.pdf">Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula</a> </summary> 
+<details> <summary> <a target="_blank" href="https://wise.vub.ac.be/sites/default/files/publications/CSEDU2023.pdf">Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula</a> </summary> 
   The tech industry is a fast-growing field, with many companies facing issues in finding skilled workers to fill
   their open vacancies. At the same time, many people have limited access to the quality education necessary to
   enter this job market. To address this issue, various small and often volunteer-run non-profit organisations have
@@ -93,21 +90,21 @@ In addition to the future exploration and exploitation of the presented TCER mod
   application. While our solution is designed for the specific context of small organisations providing vocational
   ICT training, it can also be applied to the broader domain of learning environments facing similar constraints.
 
-- [King's Scroll](https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/)
-- [Mobile Companion App](https://play.google.com/store/apps/details?id=be.ac.vub.wise.jsStudyBuddy)
+- <a target="_blank" href="https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/">King&#39;s Scroll</a>
+- <a target="_blank" href="https://play.google.com/store/apps/details?id=be.ac.vub.wise.jsStudyBuddy">Mobile Companion App</a>
 
   </details>
 
-<details> <summary> <a href="https://wise.vub.ac.be/publication/explorotron-ide-extension-guided-and-independent-code-exploration-and-learning">Explorotron: an IDE Extension for Guided and Independent Code Exploration and Learning</a> + <a href="https://www.youtube.com/watch?v=101yLSn-2lc">video</a> </summary>
+<details> <summary> <a target="_blank" href="https://wise.vub.ac.be/publication/explorotron-ide-extension-guided-and-independent-code-exploration-and-learning">Explorotron: an IDE Extension for Guided and Independent Code Exploration and Learning</a> + <a target="_blank" href="https://www.youtube.com/watch?v=101yLSn-2lc">video</a> </summary>
 
 We introduce the Explorotron Visual Studio Code extension for guided and independent code exploration and learning. Explorotron is a continuation of earlier work carried out to explore how we can enable small organisations with limited resources to provide pedagogically sound learning experiences in programming. We situate Explorotron in the field of Computing Education Research (CER) and envision it to initiate a discussion around different topics, including how to balance the optimisation between the researcher-student-teacher trifecta that is inherent in CER, how to ethically and responsibly use large language models (LLMs) in the independent learning and exploration by students, and how to define better learning sessions over coding content that students obtained on their own. We further reflect on the question raised by Begel and Ko whether technology should structure learning for learners or whether learners should be taught how to structure their own independent learning outside of the classroom.
 
-- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=YoshiMalaise.explorotron)
-- [Source](https://github.com/yoshimalaise/Explorotron)
+- <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=YoshiMalaise.explorotron">VS Code Marketplace</a>
+- <a target="_blank" href="https://github.com/yoshimalaise/Explorotron">Source</a>
 
   </details>
 
-<details> <summary> <a href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">Automated Questionnaires About Students’ JavaScript Programs: Towards Gauging Novice Programming Processes</a> + <a href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">qlcjs libarary</a> </summary>
+<details> <summary> <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">Automated Questionnaires About Students’ JavaScript Programs: Towards Gauging Novice Programming Processes</a> + <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">qlcjs libarary</a> </summary>
 
 Students sometimes manage to produce functionally correct program code while having a fragile understanding of the related
 learning goals. Such unproductive success could be intercepted
@@ -123,16 +120,15 @@ behavior.
 
 </details>
 
-- by [Teemu](https://github.com/teemulehtinen), inspired by Study Lenses
-
-Sessions and Panels at the [Migration Summit '23](https://migrationsummit.org/events/)
-
-- [Participatory Research‐Practise Partnerships](https://www.youtube.com/watch?v=K_xilH9m0eY&list=PL6cp6kydiOXcS3y4_vumcYg6jJZQSHF8y&index=51)
-- [Panel on Research with Refugees and Displaced Populations](https://www.youtube.com/watch?v=_xziRXR1g00)
-
-And, [my notes](https://evancole.be/notes)
-
----
+<ul>
+<li>by <a target="_blank" href="https://github.com/teemulehtinen">Teemu</a>, inspired by Study Lenses</li>
+</ul>
+<p>Sessions and Panels at the <a target="_blank" href="https://migrationsummit.org/events/">Migration Summit &#39;23</a></p>
+<ul>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=K_xilH9m0eY&amp;list=PL6cp6kydiOXcS3y4_vumcYg6jJZQSHF8y&amp;index=51">Participatory Research‐Practise Partnerships</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=_xziRXR1g00">Panel on Research with Refugees and Displaced Populations</a></li>
+</ul>
+<p>And, <a target="_blank" href="https://evancole.be/notes">my notes</a></p>
 
 </details>
 
@@ -151,18 +147,20 @@ Email me to learn more about my services in curriculum design, content creation 
 <summary><em>Click to learn more about my professional work.</em></summary>
 <br>
 
-- Places where I have/am designed/ing instruction:
-  - [MIT Emerging Talent](https://emergingtalent.mit.edu/)
-  - [Elewa](https://elewa.co.ke/home)
-  - [Moringa School](https://moringaschool.com/)
-  - [InTechgration](https://intechgration.io/)
-  - [Academy](https://academy.tech/)
-  - [HackYourFuture Belgium](https://hyfbe.be/)
-- Before these, I ran my own classes for 3 years.
-- I volunteer for the [Migration Summit](https://migrationsummit.org/)
-- Obligatory [Linkedin](https://be.linkedin.com/in/evan-cole) link
-
----
+<ul>
+<li>Places where I have/am designed/ing instruction:<ul>
+<li><a target="_blank" href="https://emergingtalent.mit.edu/">MIT Emerging Talent</a></li>
+<li><a target="_blank" href="https://elewa.co.ke/home">Elewa</a></li>
+<li><a target="_blank" href="https://moringaschool.com/">Moringa School</a></li>
+<li><a target="_blank" href="https://intechgration.io/">InTechgration</a></li>
+<li><a target="_blank" href="https://academy.tech/">Academy</a></li>
+<li><a target="_blank" href="https://hyfbe.be/">HackYourFuture Belgium</a></li>
+</ul>
+</li>
+<li>Before these, I ran my own classes for 3 years.</li>
+<li>I volunteer for the <a target="_blank" href="https://migrationsummit.org/">Migration Summit</a></li>
+<li>Obligatory <a target="_blank" href="https://be.linkedin.com/in/evan-cole">Linkedin</a> link</li>
+</ul>
 
 </details>
 
@@ -175,7 +173,7 @@ Email me to learn more about my services in curriculum design, content creation 
 
 I've always loved language, linguistics and reading more than I liked playing on computers. So when I program I think more about the writing, the language and the rhetorics than what I'm building. I also think [rhetorical situations](https://evancole.be/notes/#/page/rhetorics-first%20curriculum%20design) are [a great starting point](https://github.com/DeNepo/welcome-to-js/tree/main/1-what-is-programming) for [teaching programming](https://github.com/DeNepo/class-repository/tree/main/guides#what-is-programming).
 
-My main computery hobby is [snippetry](https://evancole.be/snippetry/?danger=yes) → _`What can you do with under 40(ish) lines at a time?`_
+My main computery hobby is [snippetry](https://evancole.be/snippetry/?danger=yes) → _What can you do with under 40(ish) lines at a time?_
 
 Let's talk, together we can build things we could never imagine alone.
 
@@ -184,15 +182,10 @@ Let's talk, together we can build things we could never imagine alone.
 <br>
 
 <!-- prettier-ignore -->
-```js
-alert(eval(eval((recurseval = 'eval(prompt("yolo", recurseval) || recurseval)'))));
-```
-
-[If Hemingway Wrote JavaScript](https://anguscroll.com/hemingway/) has influenced my programming life more than any other single source. [How to Draw a Bunny](https://www.oreilly.com/library/view/beautiful-javascript/9781449371142/ch03.html) is in second place.
-
-I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
-
----
+<pre><code class="lang-js">alert(<span class="hljs-name">eval</span>(<span class="hljs-name">eval</span>((<span class="hljs-name">recurseval</span> = 'eval(<span class="hljs-name">prompt</span>(<span class="hljs-string">"yolo"</span>, recurseval) || recurseval)'))))<span class="hljs-comment">;</span>
+</code></pre>
+<p><a target="_blank" href="https://anguscroll.com/hemingway/">If Hemingway Wrote JavaScript</a> has influenced my programming life more than any other single source. <a target="_blank" href="https://www.oreilly.com/library/view/beautiful-javascript/9781449371142/ch03.html">How to Draw a Bunny</a> is in second place.</p>
+<p>I recently discovered <a target="_blank" href="https://www.coem-lang.org/">coem-lang</a> and <a target="_blank" href="https://www.dwitter.net/u/etc.ole">Dwitter</a>.</p>
 
 </details>
 
@@ -286,7 +279,7 @@ I recently discovered [Dwitter](https://www.dwitter.net/u/etc.ole).
 <li><em>There are empirical best practices for teaching programming, but those are not common.</em></li>
 </ul>
 <p>Hold on. What does it even mean to teach programming? Maybe it means first teaching students to ask questions that can be answered with code.</p>
-<p>I certainly haven&#39;t found the answer yet, but I do have lots of ideas. Let&#39;s compare <a href="https://evancole.be/notes" target="_blank">notes</a>.</p>
+<p>I certainly haven&#39;t found the answer yet, but I do have lots of ideas. Let&#39;s compare <a target="_blank" href="https://evancole.be/notes" target="_blank">notes</a>.</p>
 
 </details>  
 </td>
