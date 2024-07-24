@@ -171,9 +171,9 @@ Email me to learn more about my services in curriculum design, content creation 
 
 ## Fun
 
-I've always loved language, linguistics and reading more than I liked playing on computers. So when I program I think more about the writing, the language and the rhetorics than what I'm building. I also think [rhetorical situations](https://evancole.be/notes/#/page/rhetorics-first%20curriculum%20design) are [a great starting point](https://github.com/DeNepo/welcome-to-js/tree/main/1-what-is-programming) for [teaching programming](https://github.com/DeNepo/class-repository/tree/main/guides#what-is-programming).
+I've always loved language, linguistics and reading more than I liked playing on computers. So when I program I think more about the writing, the language and the rhetorics than what I'm building. I also think <a target="_blank" href="https://evancole.be/notes/#/page/rhetorics-first%20curriculum%20design">rhetorical situations</a> are <a target="_blank" href="https://github.com/DeNepo/welcome-to-js/tree/main/1-what-is-programming">a great starting point</a> for <a target="_blank" href="https://github.com/DeNepo/class-repository/tree/main/guides#what-is-programming">teaching programming</a>.
 
-My main computery hobby is [snippetry](https://evancole.be/snippetry/?danger=yes) → _What can you do with under 40(ish) lines at a time?_
+My main computery hobby is <a target="_blank" href="https://evancole.be/snippetry/?danger=yes">snippetry</a> → _What can you do with under 40(ish) lines at a time?_
 
 Let's talk, together we can build things we could never imagine alone.
 
