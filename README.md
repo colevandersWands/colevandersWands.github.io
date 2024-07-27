@@ -76,7 +76,8 @@ There is a lack of an overarching model defining CER as a unified field and prov
 
 In addition to the future exploration and exploitation of the presented TCER model, we propose further characterising CER as a field, applying the TCER model to understand past and contemporary CER, applying the model to address current challenges in CER, imagining what the field can become, as well as exploring the potential for translational research programmes to maximise the broader impact of computing education research.
 
-  </details>
+</details>
+<br/>
 
 <details> <summary> <a target="_blank" href="https://wise.vub.ac.be/sites/default/files/publications/CSEDU2023.pdf">Codeschool in a Box: A Low-barrier Approach to Packaging Programming Curricula</a> </summary> 
   The tech industry is a fast-growing field, with many companies facing issues in finding skilled workers to fill
@@ -93,7 +94,8 @@ In addition to the future exploration and exploitation of the presented TCER mod
 - <a target="_blank" href="https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/">King&#39;s Scroll</a>
 - <a target="_blank" href="https://play.google.com/store/apps/details?id=be.ac.vub.wise.jsStudyBuddy">Mobile Companion App</a>
 
-  </details>
+</details>
+<br/>
 
 <details> <summary> <a target="_blank" href="https://wise.vub.ac.be/publication/explorotron-ide-extension-guided-and-independent-code-exploration-and-learning">Explorotron: an IDE Extension for Guided and Independent Code Exploration and Learning</a> + <a target="_blank" href="https://www.youtube.com/watch?v=101yLSn-2lc">video</a> </summary>
 
@@ -102,7 +104,8 @@ We introduce the Explorotron Visual Studio Code extension for guided and indepen
 - <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=YoshiMalaise.explorotron">VS Code Marketplace</a>
 - <a target="_blank" href="https://github.com/yoshimalaise/Explorotron">Source</a>
 
-  </details>
+</details>
+<br/>
 
 <details> <summary> <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">Automated Questionnaires About Students’ JavaScript Programs: Towards Gauging Novice Programming Processes</a> + <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3576123.3576129">qlcjs libarary</a> </summary>
 
