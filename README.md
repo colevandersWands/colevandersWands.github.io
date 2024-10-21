@@ -18,7 +18,7 @@ I'm curious how we can more efficiently translate research in computing educatio
 
 AI can now write and explain code, but people still need to understand and maintain this code. To adapt, programming education must center code comprehension, discussion, and review instead of code writing. Research finds this is also the most effective way to learn programming, with or without access to AI.
 
-If we want programming education stay relevant and open doors to opportunity, we need a new open philosophy of programming education that centers comprehension-first learning, peer-led study, easy content authoring, and offline study.
+If we want programming education to stay relevant and open doors to opportunity, we need a new open philosophy of programming education that centers comprehension-first learning, peer-led study, easy content authoring, and offline study.
 
 Curious about using or contributing to any of these resources? Send me an email!
 
@@ -46,7 +46,7 @@ Curious about using or contributing to any of these resources? Send me an email!
 <ul>
 <li><a target="_blank" href="https://evancole.be/fosdem-2019/index.html#/">slides</a>, <a target="_blank" href="https://github.com/colevandersWands/fosdem-2019">repo</a> (forked because I accidentally deleted mine 🤦)</li>
 </ul>
-<p><a target="_blank" href="https://github.com/lpmi-13/micromaterials-list">Micromaterials</a>: Open learning resources that are focused,free, give automated feedback, and (ideally) generate endless practice.</p>
+<p><a target="_blank" href="https://github.com/lpmi-13/micromaterials-list">Micromaterials</a>: Open learning resources that are focused, free, give automated feedback, and (ideally) generate endless practice.</p>
 <ul>
 <li><a target="_blank" href="https://micromaterialsblog.wordpress.com/2024/03/25/devedops-dimensions/">DevEdOps Dimensions</a> by <a target="_blank" href="https://github.com/lpmi-13/">Adam</a></li>
 <li><a target="_blank" href="https://archive.fosdem.org/2023/schedule/event/breaking_code_of_inclusion/">presented at FOSDEM &#39;23</a> by <a target="_blank" href="https://github.com/yoshimalaise/">Yoshi</a></li>
