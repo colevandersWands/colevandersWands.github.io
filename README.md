@@ -14,17 +14,6 @@ I'm curious how we can more efficiently translate research in computing educatio
 
 ---
 
-## Running locally
-
-If you want to run this locally to see changes before deploying to production, you can run the following:
-
-```sh
-bundle install
-bundle exec jekyll serve
-```
-
-You should be able to navigate to `localhost:4000` to see the site live, which will reload if you make any changes and save them locally.
-
 ## Open Education
 
 AI can now write and explain code, but people still need to understand and maintain this code. To adapt, programming education must center code comprehension, discussion, and review instead of code writing. Research finds this is also the most effective way to learn programming, with or without access to AI.
