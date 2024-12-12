@@ -2,9 +2,9 @@
 
 > [email](mailto:email@evancole.be)@[evancole.be](https://evancole.be)
 
-I'm curious how we can more efficiently translate research in computing education to open tools, content and practices:
+I'm curious how we can translate research in computing education to open tools, content and practices:
 
-→ _How can we balance speed and rigor in research to best serve learners and educators?_
+→ _How can we balance speed and rigor to best serve learners and educators?_
 
 - [Open Education](#open-education)
 - [Research](#research)
