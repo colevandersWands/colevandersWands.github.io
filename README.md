@@ -153,6 +153,7 @@ Email me to learn more about my services in curriculum design, content creation 
 <ul>
 <li>Places where I have/am designed/ing instruction:<ul>
 <li><a target="_blank" href="https://emergingtalent.mit.edu/">MIT Emerging Talent</a></li>
+<li><a target="_blank" href="https://zakey.tech">Zakey Tech</a></li>
 <li><a target="_blank" href="https://elewa.co.ke/home">Elewa</a></li>
 <li><a target="_blank" href="https://moringaschool.com/">Moringa School</a></li>
 <li><a target="_blank" href="https://intechgration.io/">InTechgration</a></li>
