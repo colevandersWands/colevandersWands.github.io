@@ -4,6 +4,7 @@
 
 Places where I have/am designed/ing instruction:
 
+- [Amana Bootcamp](http://amanabootcamp.org/)
 - [MIT Emerging Talent](https://emergingtalent.mit.edu/)
 - [Zakey Tech](https://zakey.tech)
 - [Elewa](https://elewa.co.ke/home)
