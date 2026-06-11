@@ -1,2 +1,8 @@
-# ignore anything output from `jekyll build`
-_site
+# 11ty build output
+_site/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store

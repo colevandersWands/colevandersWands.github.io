@@ -1,3 +1,12 @@
+---
+layout: layouts/page.njk
+title: "?"
+description: Huh — pending content.
+permalink: /huh/
+---
+
+# ?
+
 You may have heard this before:
 
 - _if all you have is a hammer, everything is a nail_
@@ -29,7 +38,7 @@ So what does it mean to be an expert in a discipline? I think it means you've de
 
 Where do unexpected questions come from? And how can you find an answer to a question no one understands yet?
 
-Conventional disciplines may have constrained themselves to asking questions for which they already now how to search answers.
+Conventional disciplines may have constrained themselves to asking questions for which they already know how to search answers.
 
 But what if you reject known constraints and set new ones? You'd have to ask unknown questions and find unexpected ways to answer them.
 
@@ -43,7 +52,7 @@ Try replacing "question" with "problem", and "answer" with "address":
 
 Listening and empathy are the keys to finding problems you couldn't know exist. Collaborative design is the way to find answers you never expected were possible.
 
-- _Together, we can find the problems we didn't expect, and address them in ways we never never imagined._
+- _Together, we can find the problems we didn't expect, and address them in ways we never imagined._
 
 ---
 
@@ -56,8 +65,6 @@ Rephrased as a problem:
 - _There are empirical best practices for teaching programming, but those are not common._
 
 Hold on. What does it even mean to teach programming? Maybe it means first teaching students to ask questions that can be answered with code.
-
----
 
 ---
 

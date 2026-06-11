@@ -1,0 +1,20 @@
+{
+  "name": "evancole.be",
+  "version": "0.1.0",
+  "description": "evancole.be landing page (Eleventy + GitHub Pages)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Evan Cole",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  },
+  "dependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2"
+  }
+}

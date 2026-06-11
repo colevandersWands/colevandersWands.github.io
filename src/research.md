@@ -1,3 +1,10 @@
+---
+layout: layouts/page.njk
+title: Research
+description: Computing-education research and research translation — publications, prototypes, and panels.
+permalink: /research/
+---
+
 # Research
 
 I create methods and tools for research translation in computing education, helping promising advances in research reach learners and educators everywhere. My specialty is translating findings and prototypes from CER into classroom-ready prototypes for adult technical education.
@@ -8,7 +15,7 @@ I create methods and tools for research translation in computing education, help
 
 The field of Computing Education Research (CER) produces important insights into learning and notable interventions, yet due to the research/practice divide these do not have the desired impact on learners or practitioners. Even within CER, Computing Education (CE) learning theories have limited influence on learning designs due to the theory/design divide, which is unfortunate given that the goal of CER is to impact learners and broaden access to computation.
 
-There is a lack of an overarching model defining CER as a unified field and providing a framework for discussion. While there is discussion around many of the core activities and practices in CER, we have yet to come across a holistic characterisation. We introduce a model of Translational Computing Education Research (TCER) that helps to understand and discuss CER as a field, bridge the divides and provide internal structure, while also making the field more approachable for interdisciplinary and non-academic collaborators. In our TCER model, theory and design are equally important but weighted differently depending on an activity’s position along the research/practice continuum.
+There is a lack of an overarching model defining CER as a unified field and providing a framework for discussion. While there is discussion around many of the core activities and practices in CER, we have yet to come across a holistic characterisation. We introduce a model of Translational Computing Education Research (TCER) that helps to understand and discuss CER as a field, bridge the divides and provide internal structure, while also making the field more approachable for interdisciplinary and non-academic collaborators. In our TCER model, theory and design are equally important but weighted differently depending on an activity's position along the research/practice continuum.
 
 In addition to the future exploration and exploitation of the presented TCER model, we propose further characterising CER as a field, applying the TCER model to understand past and contemporary CER, applying the model to address current challenges in CER, imagining what the field can become, as well as exploring the potential for translational research programmes to maximise the broader impact of computing education research.
 
@@ -41,6 +48,6 @@ And, [my notes](https://evancole.be/notes)
 
 ---
 
-[Automated Questionnaires About Students’ JavaScript Programs: Towards Gauging Novice Programming Processes](https://dl.acm.org/doi/pdf/10.1145/3576123.3576129) + [qlcjs libarary](https://dl.acm.org/doi/pdf/10.1145/3576123.3576129).
+[Automated Questionnaires About Students' JavaScript Programs: Towards Gauging Novice Programming Processes](https://dl.acm.org/doi/pdf/10.1145/3576123.3576129) + [qlcjs library](https://dl.acm.org/doi/pdf/10.1145/3576123.3576129).
 
 - By [Teemu](https://github.com/teemulehtinen), inspired by [Study Lenses](https://denepo.js.org/study-lenses)

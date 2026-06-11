@@ -1,3 +1,10 @@
+---
+layout: layouts/page.njk
+title: Open Education
+description: Aligned, evidence-based open educational resources for comprehension-first computing education.
+permalink: /open-education/
+---
+
 # Open Education
 
 Below are aligned educational resources I have been involved in developing:

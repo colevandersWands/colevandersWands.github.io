@@ -1,3 +1,10 @@
+---
+layout: layouts/page.njk
+title: Home
+description: Evan Cole — computing education research, open tools, content and practices.
+permalink: /
+---
+
 # Evan Cole
 
 > [email](mailto:email@evancole.be)@[evancole.be](https://evancole.be), [linkedin](https://be.linkedin.com/in/evan-cole)
@@ -8,23 +15,50 @@ I'm curious how we can translate research in computing education to open tools, 
 
 ---
 
-## [Open Education](./open-education.md)
+## Open Education
 
 AI can now write and explain code, but people still need to understand and maintain this code. To adapt, programming education must center code comprehension, discussion, and review instead of code writing. Research finds this is also the most effective way to learn programming, with or without access to AI.
 
 If we want programming education to stay relevant and open doors to opportunity, we need a new open philosophy of programming education that centers comprehension-first learning, peer-led study, easy content authoring, and offline study.
 
+→ [open education](/open-education/)
+
 ---
 
-## [Research](./research.md)
+## Research
 
 I create methods and tools for research translation in computing education, helping promising advances in research reach learners and educators everywhere. My specialty is translating findings and prototypes from CER into classroom-ready prototypes for adult technical education.
 
+→ [research](/research/)
+
 ---
 
-## [Work](./work.md)
+## Work
 
-Evidence-based instructional design is key to operating an efficient programming course. I can help you reduce costs while still improving learner outcomes by adjusting learning objectives to avoid common challenges, by using educators' time more effectively, by promoting structured collaboration in class, and by advising strategic investments in content.
+> Obligatory [linkedin](https://be.linkedin.com/in/evan-cole).
+
+Places where I have/am designed/ing instruction:
+
+- [MIT Emerging Talent](https://emergingtalent.mit.edu/)
+- [Zakey Tech](https://zakey.tech)
+- [Elewa](https://elewa.co.ke/home)
+- [Moringa School](https://moringaschool.com/)
+- [InTechgration](https://intechgration.io/)
+- [Academy](https://academy.tech/)
+- [HackYourFuture Belgium](https://hyfbe.be/)
+
+Before these, I ran my own classes for 3 years.
+
+---
+
+## Tutoring
+
+I work with learners at any stage — first contact with programming, building on
+an existing foundation, integrating code into a current profession, or
+approaching data science with more rigour. Sessions are 1:1 and adapt to where
+you are: the goal is comprehension and practice, not just output.
+
+→ [tutoring@evancole.be](mailto:tutoring@evancole.be)
 
 ---
 
@@ -45,6 +79,4 @@ I recently discovered [coem-lang](https://www.coem-lang.org/) and [Dwitter](http
 
 ---
 
-# [?](./huh.md)
-
-🇧🇪 🇺🇸
+→ [?](/huh/)
